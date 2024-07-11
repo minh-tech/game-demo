@@ -1,1 +1,0 @@
-Websocket with Jetty server
